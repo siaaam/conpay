@@ -1,0 +1,92 @@
+export const products = [
+  {
+    id: 1,
+    img: 'img/1.png',
+    heading: 'Madrid Ch-Avila Renfe',
+    text: 'Sebd crypto with just a phone number',
+  },
+  {
+    id: 2,
+    img: 'img/2.png',
+    heading: 'DreamBeach Festival',
+    text: 'Sebd crypto with just a phone number',
+  },
+  {
+    id: 3,
+    img: 'img/3.png',
+    heading: 'Busdriver-Tickets',
+    text: 'Sebd crypto with just a phone number',
+  },
+  {
+    id: 4,
+    img: 'img/4.png',
+    heading: 'Cartickets-Trust',
+    text: 'Sebd crypto with just a phone number',
+  },
+  {
+    id: 5,
+    img: 'img/5.png',
+    heading: 'Firmonia-Tickets',
+    text: 'Sebd crypto with just a phone number',
+  },
+  {
+    id: 6,
+    img: 'img/6.png',
+    heading: 'Madrid Ch-Avila Renfe',
+    text: 'Sebd crypto with just a phone number',
+  },
+  {
+    id: 7,
+    img: 'img/7.png',
+    heading: 'Madrid Ch-Avila Renfe',
+    text: 'Sebd crypto with just a phone number',
+  },
+  {
+    id: 8,
+    img: 'img/8.png',
+    heading: 'Busdriver-Tickets',
+    text: 'Sebd crypto with just a phone number',
+  },
+  {
+    id: 9,
+    img: 'img/9.png',
+    heading: 'Cartickets-Trust',
+    text: 'Sebd crypto with just a phone number',
+  },
+  {
+    id: 10,
+    img: 'img/10.png',
+    heading: 'Firmonia-Tickets',
+    text: 'Sebd crypto with just a phone number',
+  },
+  {
+    id: 11,
+    img: 'img/11.png',
+    heading: 'Madrid Ch-Avila Renfe',
+    text: 'Sebd crypto with just a phone number',
+  },
+  {
+    id: 12,
+    img: 'img/12.png',
+    heading: 'DreamBeach Festival',
+    text: 'Sebd crypto with just a phone number',
+  },
+  {
+    id: 13,
+    img: 'img/13.png',
+    heading: 'Busdriver-Tickets',
+    text: 'Sebd crypto with just a phone number',
+  },
+  {
+    id: 14,
+    img: 'img/14.png',
+    heading: 'Cartickets-Trust',
+    text: 'Sebd crypto with just a phone number',
+  },
+  {
+    id: 15,
+    img: 'img/15.png',
+    heading: 'Firmonia-Tickets',
+    text: 'Sebd crypto with just a phone number',
+  },
+];
