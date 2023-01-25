@@ -2,4 +2,5 @@
 
 body {
   font-family: 'Space Grotesk', sans-serif;
+  background: url('img/blur.png') no-repeat center center / cover;
 }
